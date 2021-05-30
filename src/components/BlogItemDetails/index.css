@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.blogDetailContainer {
+  margin: 50px;
+}
+.blogTitle {
+  text-align: center;
+  font-size: 40px;
+}
+
+.blogAvatar {
+  width: 40px;
+  margin-top: 12px;
+  height: 40px;
+  border-radius: 30px;
+}
+.blogImage {
+  width: 100%;
+}
+.authorInfo {
+  margin-bottom: 20px;
+}
+.blogImg {
+  height: 60vh;
+}
+.blogAuthor {
+  color: black;
+  font-size: 21px;
+  font-weight: 700;
+  padding-left: 10px;
+  font-family: 'Roboto';
+}
+.blogContent {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 19px;
+}
